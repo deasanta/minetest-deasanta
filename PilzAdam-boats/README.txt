@@ -2,7 +2,7 @@ Subject: [Contribution] [PilzAdam/boats]
 
 Boats that can be used in boats mod
 
-Picture - http://www.dropbox.com/s/1e5ls7duekfiq8k/PilzAdam-boats-001.jpg
+Picture - http://dl.dropboxusercontent.com/u/1389294/minetest/PilzAdam-boats-001.jpg
 
 Original: https://github.com/PilzAdam/boats
 GitHub: https://github.com/deasanta/minetest-deasanta
