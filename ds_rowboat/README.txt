@@ -4,7 +4,6 @@ Mod to add a Row Boat to MineTest
 
 Picture - https://sites.google.com/site/dsminetest/ds_mods/ds_rowboat
 
-Original: https://github.com/ds_rowboat
 GitHub: https://github.com/deasanta/minetest-deasanta
 Download: https://github.com/deasanta/minetest-deasanta/archive/master.zip
 
