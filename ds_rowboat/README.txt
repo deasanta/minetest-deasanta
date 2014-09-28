@@ -1,4 +1,4 @@
-Subject: [Contribution] [ds_rowboat]
+[Mod] ds_rowboat [140927] [ds_rowboat]
 
 Mod to add a Row Boat to MineTest
 
